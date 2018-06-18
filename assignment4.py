@@ -32,3 +32,17 @@ print(l.count('i'))
 print(l.count('s'))
 print(l.count('p'))
 print(l)
+a=9
+if(a>12):
+    print("a is less than 10")
+else:
+    print("a is smaller then 12")
+print(a)
+a=13
+if(a<12):
+    print("a is smaller then 12")
+elif(a==12):
+    pass
+else:
+    print("a is greater then 12")
+print(a)
