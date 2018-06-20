@@ -37,10 +37,10 @@ for i in range(len(l)):
     x = []
     y = []
     z = []
-    if(isinstance(l,int)==True):
+    if isinstance(l,int)==True:
         print(x.append(l))
         print("int=",x)
-    elif(isinstance(l,float)==True):
+    elif isinstance(l,float)==True:
         print(y.append(l))
         print("float=",y)
     elif(isinstance(l,str)==True):
