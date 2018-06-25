@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19903ed2-71b8-4900-82f6-1a1dedc8addb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +23,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment9_class1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment9_class1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment9_class1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/class.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="assignment10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="74" column="44" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -57,6 +62,7 @@
         <option value="$PROJECT_DIR$/assignment8.py" />
         <option value="$PROJECT_DIR$/assignment9.py" />
         <option value="$PROJECT_DIR$/assignment9_class1.py" />
+        <option value="$PROJECT_DIR$/assignment10.py" />
       </list>
     </option>
   </component>
@@ -72,23 +78,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="acadview1" type="cbb8eebc:String" user="acadview1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="acadview1" type="b2602c69:ProjectViewProjectNode" />
               <item name="acadview1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="acadview1" type="cbb8eebc:String" user="acadview1" />
             </path>
           </expand>
           <select />
@@ -108,8 +114,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment9_class1">
-    <configuration name="assignment5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.assignment10">
+    <configuration name="assignment10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,19 +206,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment5" />
       <item itemvalue="Python.assignment6" />
       <item itemvalue="Python.assignment7" />
       <item itemvalue="Python.assignment8" />
       <item itemvalue="Python.assignment9_class1" />
+      <item itemvalue="Python.assignment10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment10" />
         <item itemvalue="Python.assignment9_class1" />
         <item itemvalue="Python.assignment8" />
         <item itemvalue="Python.assignment7" />
         <item itemvalue="Python.assignment6" />
-        <item itemvalue="Python.assignment5" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +237,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -256,6 +261,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -452,11 +471,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/class.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment9_class1.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="74" column="44" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
